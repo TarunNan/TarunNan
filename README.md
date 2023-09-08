@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello. My name is Tarun Nandamudi, a computer science student at Virginia Tech specializing in machine learning, software engineering, healthcare data science, and biomedical imaging. In this GitHub, you will find folders including code from my own personal and academic programming projects.
 
 <!--
 **TarunNan/TarunNan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
